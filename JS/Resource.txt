@@ -1,0 +1,13 @@
+
+******************Aim to make 50 projects using javscript and 10 major project **************
+
+//Syllabus to be followed from 
+
+--->https://www.udemy.com/course/the-complete-javascript-course/        --udemy
+--->https://www.youtube.com/watch?v=chx9Rs41W6g&t=3919s                 --Youtube Hasith Vashisth
+
+/git for reference harsith Vashisth         https://github.com/harshitvee/javascript-beginning-to-mastery
+
+//challenge--javascript30
+//
+//https://youtu.be/chx9Rs41W6g?t=32147
